@@ -1,5 +1,11 @@
 # Correia Mobile Detailing
 
+<!-- repo-intro:start -->
+**Project snapshot:** Correia Mobile Detailing is a lightweight, fast single-page local-business website for mobile auto detailing in Providence and nearby areas.
+
+**What it demonstrates:** HTML · CSS · JavaScript · mobile-first service UX · zero-build Netlify deployment.
+<!-- repo-intro:end -->
+
 Single-page website for Correia Mobile Detailing — mobile auto detailing in Providence, RI and nearby areas.
 
 ## Deploy on Netlify
